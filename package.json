@@ -1,16 +1,3 @@
-{
-  "name": "visioniechor-web",
-  "version": "2.0.0",
-  "license": "MIT",
-  "scripts": {
-    "dev": "docz dev",
-    "build": "rm docs/*.js*; docz build",
-    "serve": "docz serve"
-  },
-  "dependencies": {
-    "docz": "latest",
-    "prop-types": "^15.7.2",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3ee0bc7fbd267bf9e02fca219c381644b2183806ea3b119ddd525fdd576ec97
+size 315
